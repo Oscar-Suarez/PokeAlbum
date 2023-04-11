@@ -1,0 +1,20 @@
+.header{
+    border-radius: 1px;
+    padding: 10px 20px 5px 20px;
+    background-color: aquamarine;
+}
+
+.navegacion{
+    display: flex;
+    list-style: none;
+    gap: 400px;
+}
+
+.navegacion li{
+    padding-top: 5px;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+    margin: -10px;
+}
